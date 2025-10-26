@@ -37,3 +37,10 @@ I created an image using the raspberry pi logo and a lock silhouette. This becam
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--228c5b64a6af78c545b01d7de067897ec0733c67/image.png)
   
 
+## 10/26/2025 8 PM - Added Keychain hole  
+
+I added a grounded keychain hole to add an extra feature to it (It's grounded) and also allows easy portability, which is necessary for security keys, because they are less of something you plug in and more of something you carry with you to act as a physical barrier to your accounts.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b62cb4f44f088ade5af7b781c0c6367901fe3c4/image.png)
+  
+
