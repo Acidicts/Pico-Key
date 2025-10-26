@@ -6,11 +6,20 @@
   ==================================================================
 -->
 
-## 10/26/2025 - Research  
+## 10/26/2025 7:08 PM - Research  
 
 I research the different mcu controllers and decided on the rp 2354a due to onboard flash + hravily document. This made research, with the rp235x design datasheet, easy.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--848f5e0cb213cadbb5435f66ca4d530e4706ccd8/image.png)
 
+  
+
+## 10/26/2025 7:13 PM - Made Schematic  
+
+I made a schematic referencing the rp235x design datasheet and the pico fido project on blueprint. The schematic has of note: 
+- an indicator LED
+- an usb-c male port/component.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccd65c0e4ae1fe58c53e1ee313d2b737fde4c60c/image.png)
   
 
