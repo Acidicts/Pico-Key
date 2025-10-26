@@ -30,3 +30,10 @@ I routed the pcb with minimal amounts of vias to allow images to be placed effec
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4MywicHVyIjoiYmxvYl9pZCJ9fQ==--7a5a622584f9a85a82998e71b7387f311bea185e/image.png)
   
 
+## 10/26/2025 7:55 PM - Added stuff to the silk screen  
+
+I created an image using the raspberry pi logo and a lock silhouette. This became an icon which I have labelled " Secured by Raspberry Pi ". This is there for fun, mostly...
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--228c5b64a6af78c545b01d7de067897ec0733c67/image.png)
+  
+
