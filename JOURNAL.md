@@ -37,10 +37,17 @@ I created an image using the raspberry pi logo and a lock silhouette. This becam
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--228c5b64a6af78c545b01d7de067897ec0733c67/image.png)
   
 
-## 10/26/2025 8 PM - Added Keychain hole  
+## 10/26/2025 8:07 PM - Added Keychain hole  
 
 I added a grounded keychain hole to add an extra feature to it (It's grounded) and also allows easy portability, which is necessary for security keys, because they are less of something you plug in and more of something you carry with you to act as a physical barrier to your accounts.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b62cb4f44f088ade5af7b781c0c6367901fe3c4/image.png)
+  
+
+## 10/26/2025 8:23 PM - Created JLCPCB order  
+
+Created JLCPCB order, but in doing so realised that the usb-c male connector required standard pcba (not gonna do that) so this project will be for tickets.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--18bcb510dd4cc71c53bed2d1b82a5f2db1a1ba59/image.png)
   
 
