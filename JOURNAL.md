@@ -23,3 +23,10 @@ I made a schematic referencing the rp235x design datasheet and the pico fido pro
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccd65c0e4ae1fe58c53e1ee313d2b737fde4c60c/image.png)
   
 
+## 10/26/2025 7:38 PM - Routed PCB  
+
+I routed the pcb with minimal amounts of vias to allow images to be placed effectively. I used the 402 footprint for capacitors and the 603 footprint for resistors.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4MywicHVyIjoiYmxvYl9pZCJ9fQ==--7a5a622584f9a85a82998e71b7387f311bea185e/image.png)
+  
+
