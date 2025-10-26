@@ -8,6 +8,6 @@ Powerful powered by an RP2354A and equiped with a tiny LED and a usb-c male conn
 
 Devlogs in (Journal.md)[https://github.com/Acidicts/Pico-Key/blob/main/JOURNAL.md]
 
-Setup using <a href="https://github.com/polhenarejos/pico-fido">Pico Fido</a>
+Setup using the <a href="https://github.com/polhenarejos/pico-fido">Pico Fido</a> tool
 
 <img width="420" height="542" alt="image" src="https://github.com/user-attachments/assets/a463f25f-b59b-421f-86ef-8cecc43c1361" />
