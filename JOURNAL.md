@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/26/2025 7:08 PM - Research  
+## 10/26/2025 7:08 PM - Research 1 hrs  
 
 I research the different mcu controllers and decided on the rp 2354a due to onboard flash + hravily document. This made research, with the rp235x design datasheet, easy.
 
