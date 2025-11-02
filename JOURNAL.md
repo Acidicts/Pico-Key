@@ -14,7 +14,7 @@ I research the different mcu controllers and decided on the rp 2354a due to onbo
 
   
 
-## 10/26/2025 7:13 PM - Made Schematic  
+## 10/26/2025 7:13 PM - Made Schematic - 1 hr  
 
 I made a schematic referencing the rp235x design datasheet and the pico fido project on blueprint. The schematic has of note: 
 - an indicator LED
