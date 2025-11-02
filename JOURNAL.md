@@ -44,7 +44,7 @@ I added a grounded keychain hole to add an extra feature to it (It's grounded) a
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b62cb4f44f088ade5af7b781c0c6367901fe3c4/image.png)
   
 
-## 10/26/2025 8:23 PM - Created JLCPCB order  
+## 10/26/2025 8:23 PM - Created JLCPCB order - 0.4hrs  
 
 Created JLCPCB order, but in doing so realised that the usb-c male connector required standard pcba (not gonna do that) so this project will be for tickets.
 
